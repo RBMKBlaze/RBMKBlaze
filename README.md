@@ -1,4 +1,4 @@
-<h1 align="center">About Me RBMKBlaze</h1>
+<h1 align="center">About Me</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
