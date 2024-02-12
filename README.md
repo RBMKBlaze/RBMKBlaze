@@ -8,4 +8,4 @@
 
 <h1>Contact me</h1>
 <p>Discord: rbmkblaze</p>
-<p>LDG (Discord)[discord.gg/ldg]
+<p>LDG [Discord](discord.gg/ldg)
