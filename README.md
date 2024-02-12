@@ -1,4 +1,4 @@
-<h1>
+ <h1>
   About me
 </h1>
 <p>C#, C++ Developer currently working on RocketMod plugins for Unturned, learning & developing PyCord.</p>
@@ -8,4 +8,4 @@
 
 <h1>Contact me</h1>
 <p>Discord: rbmkblaze</p>
-<p>LDG [Discord](discord.gg/ldg)
+<p>LDG [Discord](https://discord.gg/ldg)
