@@ -8,4 +8,4 @@
 
 <h1>Contact me</h1>
 <p>Discord: rbmkblaze</p>
-[I'm an inline-style link](https://www.google.com)
+<p>LDG (LiamDoesGame)'s Discord: https://discord.gg/ldg</p>
