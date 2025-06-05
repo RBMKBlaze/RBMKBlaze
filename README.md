@@ -1,4 +1,4 @@
-https://infd.cc/discord
-https://infd.cc/tarkoturned
-https://discord.liamdoesga.me
-https://discord.gg/lcrust
+- https://infd.cc/discord
+- https://infd.cc/tarkoturned
+- https://discord.liamdoesga.me
+- https://discord.gg/lcrust
